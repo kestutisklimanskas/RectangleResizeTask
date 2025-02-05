@@ -1,0 +1,6 @@
+@RectangleResizeTask.Server_HostAddress = http://localhost:5196
+
+GET {{RectangleResizeTask.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

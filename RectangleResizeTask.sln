@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RectangleResizeTask.Server", "RectangleResizeTask.Server\RectangleResizeTask.Server.csproj", "{AC39E11D-0D50-41F1-B4A7-87EF2DE8A1E6}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "rectangleresizetask.client", "rectangleresizetask.client\rectangleresizetask.client.esproj", "{CA45B3EE-A9FF-4F93-ACE1-3742B6D38F19}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC39E11D-0D50-41F1-B4A7-87EF2DE8A1E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC39E11D-0D50-41F1-B4A7-87EF2DE8A1E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC39E11D-0D50-41F1-B4A7-87EF2DE8A1E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC39E11D-0D50-41F1-B4A7-87EF2DE8A1E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA45B3EE-A9FF-4F93-ACE1-3742B6D38F19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA45B3EE-A9FF-4F93-ACE1-3742B6D38F19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA45B3EE-A9FF-4F93-ACE1-3742B6D38F19}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{CA45B3EE-A9FF-4F93-ACE1-3742B6D38F19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA45B3EE-A9FF-4F93-ACE1-3742B6D38F19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA45B3EE-A9FF-4F93-ACE1-3742B6D38F19}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
